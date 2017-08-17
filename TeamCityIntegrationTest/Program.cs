@@ -12,8 +12,7 @@ namespace TeamCityIntegrationTest
         {
             Console.WriteLine("Test project to check continuous integartion");
             Console.WriteLine("Test Slack and teamcity and git");
-            Console.WriteLine("test");
-            dafa
+            Console.WriteLine("test");            
             Console.ReadLine();
             
         }
